@@ -1,0 +1,19 @@
+p{
+  background: grey;
+}
+#p1{
+  background: rgb(237, 96, 31);
+}
+#p2{
+  background: blue;
+  color: white;
+}
+#p3{
+  background: white;
+  font-family: monospace;
+  border: 1px solid black;
+}
+#p4{
+  border: 1px solid black;
+  font-weight: bold;
+}
